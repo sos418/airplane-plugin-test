@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-airplane",
+  "version": "1.0.0",
+  "description": "auto open and close airplane.",
+  "cordova": {
+    "id": "cordova-plugin-airplane",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
