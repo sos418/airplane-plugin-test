@@ -1,4 +1,6 @@
 # airplane-plugin-test
-Airplane是plugin project
+Airplane 是 plugin project
 
-airplane-plugin-test是cordova project
+airplane-plugin-test 是cordova project
+
+testIonic 是 Ionic project
